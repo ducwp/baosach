@@ -3,7 +3,7 @@
 Repo này chứa các file css dùng để tùy biến lại các trang báo phổ biến, giúp chúng ta đọc báo thoải mái hơn.
 Các tính năng chính: Xóa comment, xóa banner (các thành phần mà phần mềm chặn quảng cáo không xóa được), .v.v
 
-## CMS
+## Các trang báo
 * [WordPress](https://wordpress.org/) - WordPress is open source software you can use to create a beautiful website, blog, or app.
 * [Joomla](https://joomla.org/) - The Flexible Platform Empowering Website Creators. Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
 * [ProcessWire](https://processwire.com/) - A friendly and powerful open source CMS with an API that is a joy to use at any scale.

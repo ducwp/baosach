@@ -3,6 +3,8 @@
 Repo này chứa các file css dùng để tùy biến lại các trang báo phổ biến, giúp chúng ta đọc báo thoải mái hơn.
 Các tính năng chính: Xóa comment, xóa banner (các thành phần mà phần mềm chặn quảng cáo không xóa được), .v.v
 
+Để sử dụng các file css bạn cần các app như MakeOver: https://apps.apple.com/vn/app/makeover-custom-css/id1602361167?l=vi
+
     @import url("https://ducwp.github.io/baosach/vnexpress.css");
 
 ## Các trang báo

@@ -1,3 +1,7 @@
 .meta-news .count_cmt{
   display: none!important;
 }
+
+body{
+  border: 10px solid #f0f!important;
+}

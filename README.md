@@ -3,7 +3,7 @@
 Repo này chứa các file css dùng để tùy biến lại các trang báo phổ biến, giúp chúng ta đọc báo thoải mái hơn.
 Các tính năng chính: Xóa comment, xóa banner (các thành phần mà phần mềm chặn quảng cáo không xóa được), .v.v
 
-@import url("https://ducwp.github.io/baosach/vnexpress.css");
+    @import url("https://ducwp.github.io/baosach/vnexpress.css");
 
 ## Các trang báo
 * [WordPress](https://wordpress.org/) - WordPress is open source software you can use to create a beautiful website, blog, or app.

@@ -3,7 +3,8 @@ a.count_cmt,
 a.icon_commend,
 .coppy_right_info,
 footer.footer,
-.col-right-top{
+.col-right-top,
+.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .list-sub-feature li.item-gocnhin{
   width: 0!important;
   height: 0!important;
   padding: 0!important;
@@ -22,6 +23,11 @@ footer.footer,
 .wrapper-topstory-folder .article-topstory .title-news {
   font-size: 28px!important;
 }
+
+.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .list-sub-feature li {
+  width: 50%;
+}
+
 
 /* body{
   border: 10px solid #f0f!important;

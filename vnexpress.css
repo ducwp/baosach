@@ -2,8 +2,25 @@
 a.count_cmt,
 a.icon_commend,
 .coppy_right_info,
-footer.footer{
+footer.footer,
+.col-right-top{
+  width: 0!important;
+  height: 0!important;
+  padding: 0!important;
+  margin: 0!important;
   display: none!important;
+}
+
+.col-left-top{
+  width: auto!important;
+}
+
+.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory{
+  padding-right: 0!important;
+}
+
+.wrapper-topstory-folder .article-topstory .title-news {
+  font-size: 28px!important;
 }
 
 /* body{

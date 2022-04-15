@@ -1,5 +1,10 @@
 .comment-wrapper,
 #NC_background_color,
 .type-data-comment{
+  width: 0!important;
+  height: 0!important;
+  padding: 0!important;
+  margin: 0!important;
   display: none!important;
+  visibility: hidden!important;
 }

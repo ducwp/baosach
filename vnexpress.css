@@ -3,6 +3,10 @@
 .title-news a{
   transition: none !important;
 }
+.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory{
+  background: #fff!important;
+  background-color: #fff!important;
+}
 #box_comment_vne,
 a.count_cmt,
 a.icon_commend,

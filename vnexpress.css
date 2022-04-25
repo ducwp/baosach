@@ -53,6 +53,11 @@ img{
   border-radius: 10px;
 }
 
+.wrap-main-nav,
+.wrap-main-nav.sticky{
+  position: relative;
+}
+
 /* body{
   border: 10px solid #f0f!important;
 } */

@@ -44,7 +44,10 @@ footer.footer,
   font-size: 18px!important;
 }
 
-
-body{
-  border: 10px solid #f0f!important;
+img{
+  border-radius: 10px;
 }
+
+/* body{
+  border: 10px solid #f0f!important;
+} */

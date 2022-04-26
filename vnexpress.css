@@ -49,9 +49,9 @@ footer.footer,
   font-size: 18px!important;
 }
 
-img{
+/* img{
   border-radius: 10px;
-}
+} */
 
 .wrap-main-nav,
 .wrap-main-nav.sticky{
@@ -61,3 +61,8 @@ img{
 /* body{
   border: 10px solid #f0f!important;
 } */
+
+
+.art_section.item_full_thumb.top-story .title_news a {
+  color: #0b2c74!important;
+}

@@ -1,3 +1,5 @@
 /* VNExpress */
-.art_section .short_intro .icon_commend{
+.art_section .short_intro a.icon_commend,
+section#box_comment_vne{
+  display: none!important;
 }

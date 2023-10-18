@@ -13,6 +13,8 @@ Các tính năng chính: Xóa comment, xóa banner (các thành phần mà phầ
 
     @import url("https://ducwp.github.io/baosach/thanhnien.css");
 
+    @import url("https://ducwp.github.io/baosach/mobile.css");
+
 ## Các trang báo
 * [WordPress](https://wordpress.org/) - WordPress is open source software you can use to create a beautiful website, blog, or app.
 * [Joomla](https://joomla.org/) - The Flexible Platform Empowering Website Creators. Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
